@@ -2,7 +2,7 @@ package ua.jvlab.smlnk;
 
 import java.util.Arrays;
 
-/*work with arrays*/
+        /*work with arrays*/
 public class ArrRuns {
     public static void main(String[] args) {
 
